@@ -1,0 +1,5 @@
+<%
+var url = "http://localhost:9763/webapp/view/home.jag"
+response.sendRedirect(url)
+
+%>

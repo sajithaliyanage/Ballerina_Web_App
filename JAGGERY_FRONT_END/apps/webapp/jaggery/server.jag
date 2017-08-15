@@ -1,0 +1,3 @@
+<%
+    ///document.getElementById('para').innerHTML = twitterJson.data.name;
+%>
